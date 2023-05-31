@@ -1,1 +1,1 @@
-# tanaya-v1-krsti-2023
+# Dokumentasi Mekanik Tanaya V1 - KRSTI 2023
