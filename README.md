@@ -5,12 +5,15 @@
 
 <details close align="left"> 
   <summary><h2>🛠️ Part 1: Library and Tools </h2></summary>
+  <p>
+    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
+  </p>
 </details>
 
 <details close align="left"> 
   <summary><h2>🛠️ Part 2: Code </h2></summary>
     <details close align="left"> 
-      <summary><h2>🛠️ Part 2.1: Eksplanation </h2></summary>
+      <summary><h2>🛠️ Part 2.1: Explanation </h2></summary>
     </details>
 </details>
 
