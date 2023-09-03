@@ -12,5 +12,9 @@ Tim Zerlan
 - I Gusti Ngurah Sucahya Adi Pratama (Programming)
 
 Non Technical
+- Ilham Khoiru Imam
+- Akram Musthafa
+- Maria Metantomwate
+- Afrise Nur Hakim
 
 
